@@ -1,0 +1,56 @@
+{
+    "MonsterHunter1": {
+        "checkpoints": [
+            {
+                "steps": 499983,
+                "file_path": "results\\MonsterHunterConfig22\\MonsterHunter1\\MonsterHunter1-499983.onnx",
+                "reward": 25.06896551724138,
+                "creation_time": 1713492817.4188697,
+                "auxillary_file_paths": [
+                    "results\\MonsterHunterConfig22\\MonsterHunter1\\MonsterHunter1-499983.pt"
+                ]
+            },
+            {
+                "steps": 999949,
+                "file_path": "results\\MonsterHunterConfig22\\MonsterHunter1\\MonsterHunter1-999949.onnx",
+                "reward": 100.23076923076923,
+                "creation_time": 1713493731.0010505,
+                "auxillary_file_paths": [
+                    "results\\MonsterHunterConfig22\\MonsterHunter1\\MonsterHunter1-999949.pt"
+                ]
+            },
+            {
+                "steps": 1499960,
+                "file_path": "results\\MonsterHunterConfig22\\MonsterHunter1\\MonsterHunter1-1499960.onnx",
+                "reward": 145.4,
+                "creation_time": 1713494644.332325,
+                "auxillary_file_paths": [
+                    "results\\MonsterHunterConfig22\\MonsterHunter1\\MonsterHunter1-1499960.pt"
+                ]
+            },
+            {
+                "steps": 1500024,
+                "file_path": "results\\MonsterHunterConfig22\\MonsterHunter1\\MonsterHunter1-1500024.onnx",
+                "reward": 145.4,
+                "creation_time": 1713494644.4135473,
+                "auxillary_file_paths": [
+                    "results\\MonsterHunterConfig22\\MonsterHunter1\\MonsterHunter1-1500024.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1500024,
+            "file_path": "results\\MonsterHunterConfig22\\MonsterHunter1.onnx",
+            "reward": 145.4,
+            "creation_time": 1713494644.4135473,
+            "auxillary_file_paths": [
+                "results\\MonsterHunterConfig22\\MonsterHunter1\\MonsterHunter1-1500024.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.1+cu118"
+    }
+}

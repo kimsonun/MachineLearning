@@ -1,0 +1,65 @@
+{
+    "MonsterHunter1": {
+        "checkpoints": [
+            {
+                "steps": 499971,
+                "file_path": "results\\MonsterHunterNewConfig\\MonsterHunter1\\MonsterHunter1-499971.onnx",
+                "reward": 109.92,
+                "creation_time": 1714011985.1406868,
+                "auxillary_file_paths": [
+                    "results\\MonsterHunterNewConfig\\MonsterHunter1\\MonsterHunter1-499971.pt"
+                ]
+            },
+            {
+                "steps": 999995,
+                "file_path": "results\\MonsterHunterNewConfig\\MonsterHunter1\\MonsterHunter1-999995.onnx",
+                "reward": 149.17307692307693,
+                "creation_time": 1714012989.860015,
+                "auxillary_file_paths": [
+                    "results\\MonsterHunterNewConfig\\MonsterHunter1\\MonsterHunter1-999995.pt"
+                ]
+            },
+            {
+                "steps": 1000059,
+                "file_path": "results\\MonsterHunterNewConfig\\MonsterHunter1\\MonsterHunter1-1000059.onnx",
+                "reward": 149.17307692307693,
+                "creation_time": 1714012990.148589,
+                "auxillary_file_paths": [
+                    "results\\MonsterHunterNewConfig\\MonsterHunter1\\MonsterHunter1-1000059.pt"
+                ]
+            },
+            {
+                "steps": 1499954,
+                "file_path": "results\\MonsterHunterNewConfig\\MonsterHunter1\\MonsterHunter1-1499954.onnx",
+                "reward": 147.69230769230768,
+                "creation_time": 1714018686.7932847,
+                "auxillary_file_paths": [
+                    "results\\MonsterHunterNewConfig\\MonsterHunter1\\MonsterHunter1-1499954.pt"
+                ]
+            },
+            {
+                "steps": 1500018,
+                "file_path": "results\\MonsterHunterNewConfig\\MonsterHunter1\\MonsterHunter1-1500018.onnx",
+                "reward": 147.69230769230768,
+                "creation_time": 1714018687.0764887,
+                "auxillary_file_paths": [
+                    "results\\MonsterHunterNewConfig\\MonsterHunter1\\MonsterHunter1-1500018.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1500018,
+            "file_path": "results\\MonsterHunterNewConfig\\MonsterHunter1.onnx",
+            "reward": 147.69230769230768,
+            "creation_time": 1714018687.0764887,
+            "auxillary_file_paths": [
+                "results\\MonsterHunterNewConfig\\MonsterHunter1\\MonsterHunter1-1500018.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.1+cu118"
+    }
+}

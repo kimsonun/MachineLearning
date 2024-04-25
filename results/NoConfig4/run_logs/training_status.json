@@ -1,0 +1,38 @@
+{
+    "MonsterHunter": {
+        "checkpoints": [
+            {
+                "steps": 499995,
+                "file_path": "results\\NoConfig4\\MonsterHunter\\MonsterHunter-499995.onnx",
+                "reward": 61.583333333333336,
+                "creation_time": 1713451546.6439533,
+                "auxillary_file_paths": [
+                    "results\\NoConfig4\\MonsterHunter\\MonsterHunter-499995.pt"
+                ]
+            },
+            {
+                "steps": 500059,
+                "file_path": "results\\NoConfig4\\MonsterHunter\\MonsterHunter-500059.onnx",
+                "reward": 61.583333333333336,
+                "creation_time": 1713451546.6944685,
+                "auxillary_file_paths": [
+                    "results\\NoConfig4\\MonsterHunter\\MonsterHunter-500059.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500059,
+            "file_path": "results\\NoConfig4\\MonsterHunter.onnx",
+            "reward": 61.583333333333336,
+            "creation_time": 1713451546.6944685,
+            "auxillary_file_paths": [
+                "results\\NoConfig4\\MonsterHunter\\MonsterHunter-500059.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.2.1+cu118"
+    }
+}
